@@ -1,2 +1,2 @@
-## Welcome to GitHub Pages
-WELCOME!
+# Welcome to GitHub Pages
+## WELCOME!
