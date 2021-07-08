@@ -1,3 +1,3 @@
 let input = prompt("Enter your name")
 
-alert(`lets welcom ${input} to Github lession`)
+alert(`lets welcome ${input} to Github lession`)
