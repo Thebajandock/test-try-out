@@ -1,1 +1,3 @@
-//TODO: must add a Js folder to my project.O
+let input = prompt("Enter your name")
+
+alert(`lets welcom ${input} to Github lession`)
